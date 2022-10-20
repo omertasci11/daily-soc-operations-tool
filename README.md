@@ -28,5 +28,14 @@ You can perform the following operations using this tool.
 
 `Config your .env file with your API keys` :key:
 
+## Usage
+
+
+https://user-images.githubusercontent.com/68541612/196934770-f00d6c9e-a4ea-4077-8d81-e7e823e5b397.mp4
+
+
+
+
+
 
 
