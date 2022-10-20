@@ -24,7 +24,7 @@ You can perform the following operations using this tool.
 
 `python3 -m pip install simple-term-menu`
 
-`git clone https://github.com/omertasci11/daily-soc-operations-tool/`
+`git clone https://github.com/omertasci11/daily-soc-operations-tool.git`
 
 `Config your .env file with your API keys` :key:
 
